@@ -1,0 +1,3 @@
+org\camunda\bpm\run\example\events\CamundaEventListeners.class
+org\camunda\bpm\run\example\EventBridgeProcessEnginePlugin.class
+org\camunda\bpm\run\example\events\CamundaEventListenerUtils.class
